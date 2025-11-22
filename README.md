@@ -31,8 +31,8 @@ This script runs on any standard Linux environment (Ubuntu, Kali, Debian, MacOS)
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/The-Unzipper.git](https://github.com/YOUR_USERNAME/The-Unzipper.git)
-    cd The-Unzipper
+    git clone https://github.com/mohammedmehdio/Unzipper/unzipper.sh
+    cd Unzipper
     ```
 
 2.  **Make the script executable:**
